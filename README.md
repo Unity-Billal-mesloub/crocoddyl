@@ -24,7 +24,7 @@
 
 **[Crocoddyl](https://cmastalli.github.io/publications/crocoddyl20icra.html)** is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient differential dynamic programming (DDP) algorithms. **Crocoddyl** computes optimal trajectories and feedback gains. It uses **[Pinocchio](https://github.com/Unity-Billal-mesloub/pinocchio)** for fast computation of robot dynamics and analytical derivatives.
 
-If you want to learn more about **Crocoddyl** and its solvers, we suggest reading [[1]](#1) [[2]](#2) [[3]](#3) and visiting [PUBLICATIONS.md](https://github.com/Unity-Billal-mesloub/crocoddyl/blob/main/PUBLICATIONS.md). If you want to follow the current developments and contribute, please directly refer to the [devel branch](https://github.com/Unity-Billal-mesloub/cddp/tree/devel).
+If you want to learn more about **Crocoddyl** and its solvers, we suggest reading [[1]](#1) [[2]](#2) [[3]](#3) and visiting [PUBLICATIONS.md](https://github.com/Unity-Billal-mesloub/crocoddyl/blob/main/PUBLICATIONS.md). If you want to follow the current developments and contribute, please directly refer to the [devel branch](https://github.com/Unity-Billal-mesloub/crocoddyl/tree/devel).
 
 
 ## :crocodile: Crocoddyl features
