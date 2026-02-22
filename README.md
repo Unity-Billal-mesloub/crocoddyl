@@ -15,16 +15,16 @@
 <a href="https://anaconda.org/conda-forge/crocoddyl"><img src="https://anaconda.org/conda-forge/crocoddyl/badges/downloads.svg">
 <a href="https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29#fulltext"><img src="https://img.shields.io/badge/license-BSD--3--Clause-blue.svg?style=flat">
 <!-- <a href="https://github.com/loco-3d/crocoddyl/graphs/contributors"><img src="https://img.shields.io/github/contributors/loco-3d/crocoddyl"> -->
-<a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black" /></a>
+<a href="https://github.com/Unity-Billal-mesloub/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black" /></a>
 </p>
 
 ## <img align="center" height="20" src="https://i.imgur.com/vAYeCzC.png"/> Introduction
 
 <img align="right" src="https://i.imgur.com/o2LfbDq.gif" width="25%"/>
 
-**[Crocoddyl](https://cmastalli.github.io/publications/crocoddyl20icra.html)** is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient differential dynamic programming (DDP) algorithms. **Crocoddyl** computes optimal trajectories and feedback gains. It uses **[Pinocchio](https://github.com/stack-of-tasks/pinocchio)** for fast computation of robot dynamics and analytical derivatives.
+**[Crocoddyl](https://cmastalli.github.io/publications/crocoddyl20icra.html)** is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient differential dynamic programming (DDP) algorithms. **Crocoddyl** computes optimal trajectories and feedback gains. It uses **[Pinocchio](https://github.com/Unity-Billal-mesloub/pinocchio)** for fast computation of robot dynamics and analytical derivatives.
 
-If you want to learn more about **Crocoddyl** and its solvers, we suggest reading [[1]](#1) [[2]](#2) [[3]](#3) and visiting [PUBLICATIONS.md](https://github.com/loco-3d/crocoddyl/blob/master/PUBLICATIONS.md). If you want to follow the current developments and contribute, please directly refer to the [devel branch](https://github.com/loco-3d/cddp/tree/devel).
+If you want to learn more about **Crocoddyl** and its solvers, we suggest reading [[1]](#1) [[2]](#2) [[3]](#3) and visiting [PUBLICATIONS.md](https://github.com/Unity-Billal-mesloub/crocoddyl/blob/main/PUBLICATIONS.md). If you want to follow the current developments and contribute, please directly refer to the [devel branch](https://github.com/loco-3d/cddp/tree/devel).
 
 
 ## :crocodile: Crocoddyl features
