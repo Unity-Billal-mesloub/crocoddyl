@@ -72,7 +72,7 @@ Conda installation supports [![conda install](https://anaconda.org/conda-forge/c
 
 ### <img src="https://avatars.githubusercontent.com/u/487568" height="18" /> From Nix
 
-`crocoddyl` & `python3Packages.crocoddyl` are available in [nixpkgs](https://github.com/Unity-Billal-mesloub/nixpkgs/).
+`crocoddyl` & `python3Packages.crocoddyl` are available in [nixpkgs](https://github.com/Unity-nix/nixpkgs/).
 
 This repository is also a flake, so you may:
 - run a python shell with crocoddyl: `nix run github:loco-3d/crocoddyl`
